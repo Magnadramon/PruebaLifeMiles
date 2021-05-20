@@ -1,0 +1,13 @@
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.csprojAssemblyReference.cache
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.AssemblyInfoInputs.cache
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.AssemblyInfo.cs
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.exe
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.deps.json
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.runtimeconfig.json
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.runtimeconfig.dev.json
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.dll
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\bin\Debug\netcoreapp3.1\CodigoLectura.pdb
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.dll
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.pdb
+C:\Users\Franklin Arevalo\Desktop\ProyectosVisual\CodigoLectura\obj\Debug\netcoreapp3.1\CodigoLectura.genruntimeconfig.cache
